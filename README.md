@@ -15,7 +15,7 @@ E.g. getPlaybackTime(1, records) will return 310
 
 ## Usage
 
-``` Javascript
+``` Ruby
 # Clone this repository
 $ git clone https://github.com/EvaKra/records
 
